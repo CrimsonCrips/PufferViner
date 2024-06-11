@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.crimsoncrips.pufferviner.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "PufferViner.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
